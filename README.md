@@ -1,7 +1,10 @@
-### Hi there 👋
+Hi, I'm a full-stack & AI engineer focused on multimedia processing, AIGC, and backend service development.
+I build high-performance tools for image/video generation, editing, and media processing pipelines.
 
-- 🔭 I’m currently working on some interesting web products.
-- 🌱 I’m currently learning about team management and marketing related knowledge.
-- 💬 If you are interested in me, please contact me at [Twitter @me](https://twitter.com/Jack_king_fly)
+**Main Projects**
+- **deep-focus**: Swift-based media focus & depth effect processing
+- **video-clipper-api**: High-performance video clipping service in Go
+- **visual_api / media-api**: Python backend for visual & media processing services
+- **f5_tts_api**: TTS inference API service for speech synthesis
 
-My projects are as follows: 👇🏼
+Tech stack: Go / Python / Swift / React / Node.js / AIGC & Multimedia Engineering
