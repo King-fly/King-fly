@@ -1,50 +1,109 @@
 Hi, I'm a full-stack & AI engineer focused on multimedia processing, AIGC, and backend service development.
 I build high-performance tools for image/video generation, editing, and media processing pipelines.
 
-## 🚀 Featured Projects
 
-### 📱 iOS Apps
-### 🧘 [Clean Sober App](https://github.com/[YourUsername]/clean-sober-app)
-An iOS application that tracks alcohol-free days, calculates money saved, displays liver recovery progress, and provides motivational quotes and psychological support for quitting drinking.
+## 📱 iOS App Projects 🍎
+All iOS projects are developed with **Swift / SwiftUI**, following MVVM architecture, lightweight & user-friendly design.
 
-### 🍏 [Bite Sized Habits App](https://github.com/[YourUsername]/bite-sized-habits-app)
-An iOS app for developing healthy eating habits. With simple daily logging and visual data analysis, it helps users establish healthy dietary patterns and improve quality of life.
+### 📚 Study & Efficiency
+- 📝 **ielts-study-app**
+  SwiftUI-based IELTS learning app. Full IELTS training for Listening, Reading, Speaking & Writing.
+  Includes daily study plans, vocabulary flashcards & error collection.
 
-### 🤝 [Relate App](https://github.com/[YourUsername]/relate-app)
-A modern iOS app for tracking and managing personal relationships.
+- ⏱️ **zero-study-app**
+  Lightweight learning efficiency app. Track study time, set learning goals, visualize study stats & support multi-device sync.
 
-### 🧍 [Posture AI App](https://github.com/[YourUsername]/posture-ai-app)
-An AI-powered posture analysis app that uses the device camera to monitor sitting posture in real time, provides automatic analysis and feedback.
+- ✅ **procrastination-fix-app**
+  Minimal iOS tool to overcome procrastination and boost daily productivity.
 
-### 🎯 [Deep Focus](https://github.com/[YourUsername]/deep-focus)
-A modern, distraction-free focus timer app built with SwiftUI that helps users stay focused, work efficiently, and track focus sessions.
+- 🧘 **deep-focus**
+  Distraction-free focus timer app, record focus sessions & improve work efficiency.
+
+### 💖 Mental Health & Emotional Healing
+- 🕊️ **mypeace-app**
+  Mental health care app built with SwiftUI & MVVM, relieves anxiety & regulates mood.
+
+- 🐱 **healing-pet-app**
+  Emotional support healing pet app. Virtual pet interaction + guided breathing exercises to release stress.
+
+### 🧠 Health & Lifestyle Management
+- 🥤 **clean-sober-app**
+  Sober tracking app. Record alcohol-free days, calculate saved costs, visualize liver recovery & provide motivation.
+
+- 🥗 **bite-sized-habits-app**
+  Healthy diet management app. Daily food logging + data analysis to build good eating habits.
+
+- 🤝 **relate-app**
+  Modern personal relationship management app for daily social connection tracking.
+
+- 🧍 **posture-ai-app**
+  AI real-time posture detection app via camera, auto analysis & posture correction reminders.
+
+### 🎮 Casual Mini Program
+- 🪁 **King-fly**
+  Casual lightweight iOS mini game project.
 
 ---
 
-### 🧠 AI & Backend Services
-### 🎤 [IELTS Speaking AI](https://github.com/[YourUsername]/ielts-speaking-ai)
-A Go-based backend system for an IELTS Speaking AI practice application, providing topic practice, AI feedback, user management and data storage via RESTful API.
+## 🛠️ Backend & AI API Projects ⚙️
+Multi-language backend development: **Python(FastAPI) / Go / TypeScript**
+Combine AI models, asynchronous task queue, multimedia processing & commercial service capabilities.
 
-### 🎬 [Video Slicer API](https://github.com/[YourUsername]/video_slicer_api)
-A production-grade video slicing API service built on FastAPI and Celery.
+### 🎯 IELTS AI Education Backend
+- 🤖 **ielts_speaking_api**
+  Python FastAPI IELTS Speaking API. AI scoring, simulated examiner dialogue, user management & speaking practice.
 
-### ✂️ [Video Clipper API](https://github.com/[YourUsername]/video-clipper-api)
-High-performance video processing backend service.
+- 🗣️ **ielts-speaking-ai**
+  Go-based IELTS Speaking AI backend. RESTful API for topic practice, AI feedback & user data management.
 
-### 📝 Subtitle API • 🌐 [Subtitle Translate](https://github.com/[YourUsername]/subtitle-api)
-Automated subtitle generation and translation services.
+### 🎬 Multimedia Processing API
+- ✂️ **video_slicer_api**
+  Production-grade video slicing service based on FastAPI & Celery.
 
-### 🔊 [F5 TTS API](https://github.com/[YourUsername]/f5_tts_api)
-Text-to-speech API service for AI voice generation.
+- 🎞️ **video-clipper-api**
+  Video clipping, editing & social publishing backend, support AI video analysis & user authentication.
 
-### 🖼️ Visual API • 🎥 [Media API](https://github.com/[YourUsername])
-Multimedia processing and AI vision backend APIs.
+- 📝 **subtitle-api**
+  Audio & video subtitle generation API, integrated with OpenAI Whisper. Multi-format export & async processing.
+
+- 🎥 **media-api**
+  Media resource service: video download, audio extraction, thumbnail capture, JWT authentication & async tasks.
+
+### 🎙️ AI Audio & Visual Service
+- 🎨 **visual_api**
+  ComfyUI commercial visual generation API, support AI image creation, style conversion & batch design tasks.
+
+- 🔊 **f5_tts_api**
+  Production F5-TTS service, zero-shot voice cloning & high-quality text-to-speech capability.
+
+### 🌐 Local AI Tool Service
+- 🌍 **subtitle-translate**
+  Local SRT subtitle translation tool, based on Ollama local large model, batch translation & timestamp retention.
 
 ---
 
 ## 🛠 Tech Stack
-- **Mobile**: Swift, SwiftUI, UIKit, iOS Development
-- **Backend**: Python, FastAPI, Go, Celery
-- **AI/ML**: Computer Vision, TTS, LLM Integration
-- **Tools**: TypeScript, RESTful APIs, Async Task Processing
+### Frontend / iOS
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0088CC?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-orange?style=flat-square)
 
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Celery](https://img.shields.io/badge/Celery-green?style=flat-square)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI%20%7C%20Whisper%20%7C%20F5--TTS-purple?style=flat-square)
+
+### Multimedia & DevOps
+FFmpeg / yt-dlp / ComfyUI / Ollama / JWT Auth / Async Task Queue
+
+---
+
+## 📌 My Features
+✅ Lightweight & clean product design
+✅ Complete end-to-end development (iOS App + Backend API)
+✅ AI capability integration (Audio, Image, NLP, Vision)
+✅ Practical tool-oriented projects, ready for secondary development & deployment
